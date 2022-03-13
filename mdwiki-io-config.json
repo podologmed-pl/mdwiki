@@ -1,8 +1,8 @@
 {
 	"config": {
 		"project_title": "runserve.io",
-		"theme": "bootstrap-simple",
-		"header_file": "https://raw.githubusercontent.com/runserve/runserve/master/docs/header.md",
+		"theme": "classic",
+		"header_file": "https://raw.githubusercontent.com/podologmed-pl/runserve/master/docs/header.md",
 		"footer_file": "https://raw.githubusercontent.com/runserve/runserve/master/docs/header.md"
 	},
 	"menu": {
