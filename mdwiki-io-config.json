@@ -2,24 +2,24 @@
 	"config": {
 		"project_title": "runserve.io",
 		"theme": "classic",
-		"header_file": "https://raw.githubusercontent.com/podologmed-pl/runserve/master/docs/header.md",
-		"footer_file": "https://raw.githubusercontent.com/runserve/runserve/master/docs/header.md"
+		"header_file": "https://raw.githubusercontent.com/podologmed-pl/mdwiki/main/header.md",
+		"footer_file": "https://raw.githubusercontent.com/podologmed-pl/mdwiki/main/header.md"
 	},
 	"menu": {
 		"items": [{
 				"link": "index",
 				"name": "Using Guide",
-				"file": "https://raw.githubusercontent.com/runserve/runserve/master/docs/using.md"
+				"file": "https://raw.githubusercontent.com/podologmed-pl/mdwiki/main/using.md"
 			},
 			{
 				"link": "install",
 				"name": "Installation",
-				"file": "https://raw.githubusercontent.com/runserve/runserve/master/docs/install.md"
+				"file": "https://raw.githubusercontent.com/podologmed-pl/mdwiki/main/install.md"
 			},
 			{
 				"link": "changelog",
 				"name": "ChangeLOG",
-				"file": "https://raw.githubusercontent.com/runserve/runserve/master/docs/changelog.md"
+				"file": "https://raw.githubusercontent.com/podologmed-pl/mdwiki/main/changelog.md"
 			},
 			{
 				"link": "link3",
